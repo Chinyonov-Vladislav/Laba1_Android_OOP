@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laba1</string>
+    <string name="dummy_button">Показать информацию о разработчике</string>
+    <string name="dummy_button_text">Скрыть информацию о разработчике</string>
+    <string name="dummy_content">ООП</string>
+    <string name="my_student_info">
+        Лабораторная работа №1\n
+        Объектно-ориентированное программирование\n
+        Выполнил: Чинёнов Владислав Евгеньевич\n
+        Студент 4 курса ИВТ-1 ФТФ ДонНУ\n
+    </string>
+    <string name="empty"></string>
+</resources>
